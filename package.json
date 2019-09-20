@@ -1,0 +1,10 @@
+{
+  "name": "Color Card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "sass": "^1.22.12"
+  }
+}
